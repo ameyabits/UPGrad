@@ -1,0 +1,39 @@
+
+Types of loan:
+
+1. Cash Loan
+2. Revolving Loan
+
+Cash Loan:
+    Cash loans are quick and unsecured loans that doesnt need any collateral support.
+
+Revolving Loan:
+    A revolving credit account sets a credit limit—a maximum amount you can spend on that account. 
+    You can choose either to pay off the balance in full at the end of each billing cycle or to 
+    carry over a balance from one month to the next, or "revolve" the balance.
+    ex: Credit Cards usage
+
+
+
+Important factors that bank checks before providing approval for CREDIT loan application
+
+1. Credit History (CIBIL score)
+
+2. Cash flow History
+
+3. Collateral available to secure the loan (in case if you have property)
+
+4. Character
+
+5. personal financial statements, income tax returns
+
+6. banks asks if you have other laons as well like vehicle and what is the percentage of the loan.
+
+
+Factors considered for Loan Approval:
+
+1) loan amount
+2) Age
+3) Loan Tenure
+4) type of sector/occupation to which customer belongs (car painter: unorganised, data scientist: organised)
+5) Customer Salary

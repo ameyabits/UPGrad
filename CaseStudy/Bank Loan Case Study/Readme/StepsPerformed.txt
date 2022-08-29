@@ -1,0 +1,9 @@
+Steps Performed:
+
+1) Read CSV
+2) Get information about Applicant Data Dataframe using .info() and .describe()
+3) Find Numerical and Categorical Data from Application Data
+4) Confirmed that there are no invalid data Types
+5) Handle Missing Values
+    1. total number of columns having null Values
+    2. find the null count and the null percentage of each column
