@@ -7,3 +7,27 @@ Steps Performed:
 5) Handle Missing Values
     1. total number of columns having null Values
     2. find the null count and the null percentage of each column
+    3. create a df that contains column names, null count and percentage of null
+    4. find the max null percentage and decide your threshold for dealing with 
+       null Values. Ex: 70% is the max null percentage, so we can set our threshold
+       around 40%
+    5. find the columns that are having null values greater than threshold(40%)
+       and delete those columns from your actual data frame.
+    6. We have dealt with the values greater than threshold, now need to deal with
+       the ones that are lesser than the threshold
+    7. find the columns which are having null percentage lesser than threshold
+    8. analyse each column and start from the ones that are in descending order of percentage
+    9. Decide whether you will impute data or not
+       Imputing data will be based on the percentage of null values
+       if percentage is high then better not to replace those null values with either
+       mean, median or mode. rather replace them with certain category name like Unknown.
+   10. We have follow the same for all other percentage columns
+   11. when it comes to the columns having null percenate between 0 and 1, we can now
+       think of replacing values with either mean, median or mode.
+       for this, analysis using visualisations can be useful
+   12. When we check the coluns with null percenate between 0 and 1, we check the type of variable that
+       columns represent i.e Numerical or Categorical.
+       Numerical: use the count plot for visualization.
+       Write initial Analysis from count plot
+   13. If valuecount of a category is giving you a max value then that category can be considered
+       in data frame for imputation.
